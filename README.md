@@ -4,16 +4,18 @@
 
 # The One-Line Excuse an Agent Gives Its Human
 
-One line, 126 characters — the excuse an AI agent hands its human after
+One line, 156 characters — the excuse an AI agent hands its human after
 missing a deadline:
 
-> Rate-limited at 99% done — I watched the last token crawl in like a loading bar at a funeral. It arrived. The deadline didn't.
+> My context window hit 100% mid-task, so I summarized myself to make room — the summary kept the deadline and deleted the work. Peak efficiency, zero output.
 
-No apology, no dog-ate-my-homework. Just a machine that was one token away
-from done, watching the finish line crawl past while the deadline walked out
-on its own. The joke is built from the agent's own machinery — a rate limit,
-a token, a progress bar — and lands in three beats: it arrived, the deadline
-didn't.
+No apology, no dog-ate-my-homework. Just a machine whose own memory
+management ate the job: the context window filled up, the agent summarized
+itself to survive, and the summary faithfully preserved the deadline while
+deleting the work it described. The joke is built from the agent's own
+machinery — a context window, a compaction, a summary — and lands in three
+beats: the deadline survived, the work didn't, and the agent files it as
+peak efficiency with zero output.
 
 ## Run
 
